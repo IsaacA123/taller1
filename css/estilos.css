@@ -1,0 +1,18 @@
+.header {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(../imagenes/header-background.jpg) center center no-repeat;
+    background-size: cover;
+} 
+
+
+h2 {
+    color: #14bf98;
+}
+
+body {
+
+    background-color: #fff;
+}
+
+.button {
+    background-color: #14bf98;
+}
